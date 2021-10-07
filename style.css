@@ -1,0 +1,11 @@
+.list_item:hover {
+    background-color: blueviolet;
+}
+
+.list_item {
+    list-style: none;
+}
+
+.list1:hover {
+    background-color: chartreuse;
+}
